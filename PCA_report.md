@@ -26,5 +26,5 @@ This project applies **Principal Component Analysis (PCA)** on the Breast Cancer
   to use:
  Open **PCA.ipynb**
 
-  Author:                                                                                ## ✨ Author  
+  Author:                                                                                
 **Madhavi Dixit**
